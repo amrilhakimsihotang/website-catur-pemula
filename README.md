@@ -2,5 +2,8 @@
 
 Website ini menyajikan informasi tentang cara memulai bermain catur.<br>
 HTML, CSS,JS<br>
-Referensi : Wiki Catur
+Referensi : Wiki Catur<br>
+
+dan mendapatkan nilai bintang 5
+
 
